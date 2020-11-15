@@ -1,0 +1,1449 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="16.0" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <ItemGroup>
+    <ClCompile Include="C:\Users\scent\Documents\scent\program\gl-demo\thrid-party\assimp-3.3\code\Assimp.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="C:\Users\scent\Documents\scent\program\gl-demo\thrid-party\assimp-3.3\code\BaseImporter.cpp">
+      <Filter>Common</Filter>
+    </ClCompile>
+    <ClCompile Include="C:\Users\scent\Documents\scent\program\gl-demo\thrid-party\assimp-3.3\code\BaseProcess.cpp">
+      <Filter>Common</Filter>
+    </ClCompile>
+    <ClCompile Include="C:\Users\scent\Documents\scent\program\gl-demo\thrid-party\assimp-3.3\code\PostStepRegistry.cpp">
+      <Filter>Common</Filter>
+    </ClCompile>
+    <ClCompile Include="C:\Users\scent\Documents\scent\program\gl-demo\thrid-party\assimp-3.3\code\ImporterRegistry.cpp">
+      <Filter>Common</Filter>
+    </ClCompile>
+    <ClCompile Include="C:\Users\scent\Documents\scent\program\gl-demo\thrid-party\assimp-3.3\code\DefaultIOStream.cpp">
+      <Filter>Common</Filter>
+    </ClCompile>
+    <ClCompile Include="C:\Users\scent\Documents\scent\program\gl-demo\thrid-party\assimp-3.3\code\DefaultIOSystem.cpp">
+      <Filter>Common</Filter>
+    </ClCompile>
+    <ClCompile Include="C:\Users\scent\Documents\scent\program\gl-demo\thrid-party\assimp-3.3\code\Importer.cpp">
+      <Filter>Common</Filter>
+    </ClCompile>
+    <ClCompile Include="C:\Users\scent\Documents\scent\program\gl-demo\thrid-party\assimp-3.3\code\SGSpatialSort.cpp">
+      <Filter>Common</Filter>
+    </ClCompile>
+    <ClCompile Include="C:\Users\scent\Documents\scent\program\gl-demo\thrid-party\assimp-3.3\code\VertexTriangleAdjacency.cpp">
+      <Filter>Common</Filter>
+    </ClCompile>
+    <ClCompile Include="C:\Users\scent\Documents\scent\program\gl-demo\thrid-party\assimp-3.3\code\SpatialSort.cpp">
+      <Filter>Common</Filter>
+    </ClCompile>
+    <ClCompile Include="C:\Users\scent\Documents\scent\program\gl-demo\thrid-party\assimp-3.3\code\SceneCombiner.cpp">
+      <Filter>Common</Filter>
+    </ClCompile>
+    <ClCompile Include="C:\Users\scent\Documents\scent\program\gl-demo\thrid-party\assimp-3.3\code\ScenePreprocessor.cpp">
+      <Filter>Common</Filter>
+    </ClCompile>
+    <ClCompile Include="C:\Users\scent\Documents\scent\program\gl-demo\thrid-party\assimp-3.3\code\SkeletonMeshBuilder.cpp">
+      <Filter>Common</Filter>
+    </ClCompile>
+    <ClCompile Include="C:\Users\scent\Documents\scent\program\gl-demo\thrid-party\assimp-3.3\code\SplitByBoneCountProcess.cpp">
+      <Filter>Common</Filter>
+    </ClCompile>
+    <ClCompile Include="C:\Users\scent\Documents\scent\program\gl-demo\thrid-party\assimp-3.3\code\StandardShapes.cpp">
+      <Filter>Common</Filter>
+    </ClCompile>
+    <ClCompile Include="C:\Users\scent\Documents\scent\program\gl-demo\thrid-party\assimp-3.3\code\TargetAnimation.cpp">
+      <Filter>Common</Filter>
+    </ClCompile>
+    <ClCompile Include="C:\Users\scent\Documents\scent\program\gl-demo\thrid-party\assimp-3.3\code\RemoveComments.cpp">
+      <Filter>Common</Filter>
+    </ClCompile>
+    <ClCompile Include="C:\Users\scent\Documents\scent\program\gl-demo\thrid-party\assimp-3.3\code\Subdivision.cpp">
+      <Filter>Common</Filter>
+    </ClCompile>
+    <ClCompile Include="C:\Users\scent\Documents\scent\program\gl-demo\thrid-party\assimp-3.3\code\Bitmap.cpp">
+      <Filter>Common</Filter>
+    </ClCompile>
+    <ClCompile Include="C:\Users\scent\Documents\scent\program\gl-demo\thrid-party\assimp-3.3\code\Version.cpp">
+      <Filter>Common</Filter>
+    </ClCompile>
+    <ClCompile Include="C:\Users\scent\Documents\scent\program\gl-demo\thrid-party\assimp-3.3\code\DefaultLogger.cpp">
+      <Filter>Logging</Filter>
+    </ClCompile>
+    <ClCompile Include="C:\Users\scent\Documents\scent\program\gl-demo\thrid-party\assimp-3.3\code\Exporter.cpp">
+      <Filter>Exporter</Filter>
+    </ClCompile>
+    <ClCompile Include="C:\Users\scent\Documents\scent\program\gl-demo\thrid-party\assimp-3.3\code\AssimpCExport.cpp">
+      <Filter>Exporter</Filter>
+    </ClCompile>
+    <ClCompile Include="C:\Users\scent\Documents\scent\program\gl-demo\thrid-party\assimp-3.3\code\CalcTangentsProcess.cpp">
+      <Filter>PostProcessing</Filter>
+    </ClCompile>
+    <ClCompile Include="C:\Users\scent\Documents\scent\program\gl-demo\thrid-party\assimp-3.3\code\ComputeUVMappingProcess.cpp">
+      <Filter>PostProcessing</Filter>
+    </ClCompile>
+    <ClCompile Include="C:\Users\scent\Documents\scent\program\gl-demo\thrid-party\assimp-3.3\code\ConvertToLHProcess.cpp">
+      <Filter>PostProcessing</Filter>
+    </ClCompile>
+    <ClCompile Include="C:\Users\scent\Documents\scent\program\gl-demo\thrid-party\assimp-3.3\code\FindDegenerates.cpp">
+      <Filter>PostProcessing</Filter>
+    </ClCompile>
+    <ClCompile Include="C:\Users\scent\Documents\scent\program\gl-demo\thrid-party\assimp-3.3\code\FindInstancesProcess.cpp">
+      <Filter>PostProcessing</Filter>
+    </ClCompile>
+    <ClCompile Include="C:\Users\scent\Documents\scent\program\gl-demo\thrid-party\assimp-3.3\code\FindInvalidDataProcess.cpp">
+      <Filter>PostProcessing</Filter>
+    </ClCompile>
+    <ClCompile Include="C:\Users\scent\Documents\scent\program\gl-demo\thrid-party\assimp-3.3\code\FixNormalsStep.cpp">
+      <Filter>PostProcessing</Filter>
+    </ClCompile>
+    <ClCompile Include="C:\Users\scent\Documents\scent\program\gl-demo\thrid-party\assimp-3.3\code\GenFaceNormalsProcess.cpp">
+      <Filter>PostProcessing</Filter>
+    </ClCompile>
+    <ClCompile Include="C:\Users\scent\Documents\scent\program\gl-demo\thrid-party\assimp-3.3\code\GenVertexNormalsProcess.cpp">
+      <Filter>PostProcessing</Filter>
+    </ClCompile>
+    <ClCompile Include="C:\Users\scent\Documents\scent\program\gl-demo\thrid-party\assimp-3.3\code\PretransformVertices.cpp">
+      <Filter>PostProcessing</Filter>
+    </ClCompile>
+    <ClCompile Include="C:\Users\scent\Documents\scent\program\gl-demo\thrid-party\assimp-3.3\code\ImproveCacheLocality.cpp">
+      <Filter>PostProcessing</Filter>
+    </ClCompile>
+    <ClCompile Include="C:\Users\scent\Documents\scent\program\gl-demo\thrid-party\assimp-3.3\code\JoinVerticesProcess.cpp">
+      <Filter>PostProcessing</Filter>
+    </ClCompile>
+    <ClCompile Include="C:\Users\scent\Documents\scent\program\gl-demo\thrid-party\assimp-3.3\code\LimitBoneWeightsProcess.cpp">
+      <Filter>PostProcessing</Filter>
+    </ClCompile>
+    <ClCompile Include="C:\Users\scent\Documents\scent\program\gl-demo\thrid-party\assimp-3.3\code\RemoveRedundantMaterials.cpp">
+      <Filter>PostProcessing</Filter>
+    </ClCompile>
+    <ClCompile Include="C:\Users\scent\Documents\scent\program\gl-demo\thrid-party\assimp-3.3\code\RemoveVCProcess.cpp">
+      <Filter>PostProcessing</Filter>
+    </ClCompile>
+    <ClCompile Include="C:\Users\scent\Documents\scent\program\gl-demo\thrid-party\assimp-3.3\code\SortByPTypeProcess.cpp">
+      <Filter>PostProcessing</Filter>
+    </ClCompile>
+    <ClCompile Include="C:\Users\scent\Documents\scent\program\gl-demo\thrid-party\assimp-3.3\code\SplitLargeMeshes.cpp">
+      <Filter>PostProcessing</Filter>
+    </ClCompile>
+    <ClCompile Include="C:\Users\scent\Documents\scent\program\gl-demo\thrid-party\assimp-3.3\code\TextureTransform.cpp">
+      <Filter>PostProcessing</Filter>
+    </ClCompile>
+    <ClCompile Include="C:\Users\scent\Documents\scent\program\gl-demo\thrid-party\assimp-3.3\code\TriangulateProcess.cpp">
+      <Filter>PostProcessing</Filter>
+    </ClCompile>
+    <ClCompile Include="C:\Users\scent\Documents\scent\program\gl-demo\thrid-party\assimp-3.3\code\ValidateDataStructure.cpp">
+      <Filter>PostProcessing</Filter>
+    </ClCompile>
+    <ClCompile Include="C:\Users\scent\Documents\scent\program\gl-demo\thrid-party\assimp-3.3\code\OptimizeGraph.cpp">
+      <Filter>PostProcessing</Filter>
+    </ClCompile>
+    <ClCompile Include="C:\Users\scent\Documents\scent\program\gl-demo\thrid-party\assimp-3.3\code\OptimizeMeshes.cpp">
+      <Filter>PostProcessing</Filter>
+    </ClCompile>
+    <ClCompile Include="C:\Users\scent\Documents\scent\program\gl-demo\thrid-party\assimp-3.3\code\DeboneProcess.cpp">
+      <Filter>PostProcessing</Filter>
+    </ClCompile>
+    <ClCompile Include="C:\Users\scent\Documents\scent\program\gl-demo\thrid-party\assimp-3.3\code\ProcessHelper.cpp">
+      <Filter>PostProcessing</Filter>
+    </ClCompile>
+    <ClCompile Include="C:\Users\scent\Documents\scent\program\gl-demo\thrid-party\assimp-3.3\code\MakeVerboseFormat.cpp">
+      <Filter>PostProcessing</Filter>
+    </ClCompile>
+    <ClCompile Include="C:\Users\scent\Documents\scent\program\gl-demo\thrid-party\assimp-3.3\code\MaterialSystem.cpp">
+      <Filter>MaterialSystem</Filter>
+    </ClCompile>
+    <ClCompile Include="C:\Users\scent\Documents\scent\program\gl-demo\thrid-party\assimp-3.3\code\StepExporter.cpp">
+      <Filter>Step</Filter>
+    </ClCompile>
+    <ClCompile Include="C:\Users\scent\Documents\scent\program\gl-demo\thrid-party\assimp-3.3\code\3DSConverter.cpp">
+      <Filter>3DS</Filter>
+    </ClCompile>
+    <ClCompile Include="C:\Users\scent\Documents\scent\program\gl-demo\thrid-party\assimp-3.3\code\3DSLoader.cpp">
+      <Filter>3DS</Filter>
+    </ClCompile>
+    <ClCompile Include="C:\Users\scent\Documents\scent\program\gl-demo\thrid-party\assimp-3.3\code\3DSExporter.cpp">
+      <Filter>3DS</Filter>
+    </ClCompile>
+    <ClCompile Include="C:\Users\scent\Documents\scent\program\gl-demo\thrid-party\assimp-3.3\code\ACLoader.cpp">
+      <Filter>AC</Filter>
+    </ClCompile>
+    <ClCompile Include="C:\Users\scent\Documents\scent\program\gl-demo\thrid-party\assimp-3.3\code\ASELoader.cpp">
+      <Filter>ASE</Filter>
+    </ClCompile>
+    <ClCompile Include="C:\Users\scent\Documents\scent\program\gl-demo\thrid-party\assimp-3.3\code\ASEParser.cpp">
+      <Filter>ASE</Filter>
+    </ClCompile>
+    <ClCompile Include="C:\Users\scent\Documents\scent\program\gl-demo\thrid-party\assimp-3.3\code\AssbinExporter.cpp">
+      <Filter>ASSBIN</Filter>
+    </ClCompile>
+    <ClCompile Include="C:\Users\scent\Documents\scent\program\gl-demo\thrid-party\assimp-3.3\code\AssbinLoader.cpp">
+      <Filter>ASSBIN</Filter>
+    </ClCompile>
+    <ClCompile Include="C:\Users\scent\Documents\scent\program\gl-demo\thrid-party\assimp-3.3\code\AssxmlExporter.cpp">
+      <Filter>ASSXML</Filter>
+    </ClCompile>
+    <ClCompile Include="C:\Users\scent\Documents\scent\program\gl-demo\thrid-party\assimp-3.3\code\B3DImporter.cpp">
+      <Filter>B3D</Filter>
+    </ClCompile>
+    <ClCompile Include="C:\Users\scent\Documents\scent\program\gl-demo\thrid-party\assimp-3.3\code\BVHLoader.cpp">
+      <Filter>BVH</Filter>
+    </ClCompile>
+    <ClCompile Include="C:\Users\scent\Documents\scent\program\gl-demo\thrid-party\assimp-3.3\code\ColladaLoader.cpp">
+      <Filter>COLLADA</Filter>
+    </ClCompile>
+    <ClCompile Include="C:\Users\scent\Documents\scent\program\gl-demo\thrid-party\assimp-3.3\code\ColladaParser.cpp">
+      <Filter>COLLADA</Filter>
+    </ClCompile>
+    <ClCompile Include="C:\Users\scent\Documents\scent\program\gl-demo\thrid-party\assimp-3.3\code\ColladaExporter.cpp">
+      <Filter>COLLADA</Filter>
+    </ClCompile>
+    <ClCompile Include="C:\Users\scent\Documents\scent\program\gl-demo\thrid-party\assimp-3.3\code\DXFLoader.cpp">
+      <Filter>DXF</Filter>
+    </ClCompile>
+    <ClCompile Include="C:\Users\scent\Documents\scent\program\gl-demo\thrid-party\assimp-3.3\code\CSMLoader.cpp">
+      <Filter>CSM</Filter>
+    </ClCompile>
+    <ClCompile Include="C:\Users\scent\Documents\scent\program\gl-demo\thrid-party\assimp-3.3\code\HMPLoader.cpp">
+      <Filter>HMP</Filter>
+    </ClCompile>
+    <ClCompile Include="C:\Users\scent\Documents\scent\program\gl-demo\thrid-party\assimp-3.3\code\IRRMeshLoader.cpp">
+      <Filter>IRRMESH</Filter>
+    </ClCompile>
+    <ClCompile Include="C:\Users\scent\Documents\scent\program\gl-demo\thrid-party\assimp-3.3\code\IRRShared.cpp">
+      <Filter>IRR</Filter>
+    </ClCompile>
+    <ClCompile Include="C:\Users\scent\Documents\scent\program\gl-demo\thrid-party\assimp-3.3\code\IRRLoader.cpp">
+      <Filter>IRR</Filter>
+    </ClCompile>
+    <ClCompile Include="C:\Users\scent\Documents\scent\program\gl-demo\thrid-party\assimp-3.3\code\LWOAnimation.cpp">
+      <Filter>LWO</Filter>
+    </ClCompile>
+    <ClCompile Include="C:\Users\scent\Documents\scent\program\gl-demo\thrid-party\assimp-3.3\code\LWOBLoader.cpp">
+      <Filter>LWO</Filter>
+    </ClCompile>
+    <ClCompile Include="C:\Users\scent\Documents\scent\program\gl-demo\thrid-party\assimp-3.3\code\LWOLoader.cpp">
+      <Filter>LWO</Filter>
+    </ClCompile>
+    <ClCompile Include="C:\Users\scent\Documents\scent\program\gl-demo\thrid-party\assimp-3.3\code\LWOMaterial.cpp">
+      <Filter>LWO</Filter>
+    </ClCompile>
+    <ClCompile Include="C:\Users\scent\Documents\scent\program\gl-demo\thrid-party\assimp-3.3\code\LWSLoader.cpp">
+      <Filter>LWS</Filter>
+    </ClCompile>
+    <ClCompile Include="C:\Users\scent\Documents\scent\program\gl-demo\thrid-party\assimp-3.3\code\MD2Loader.cpp">
+      <Filter>MD2</Filter>
+    </ClCompile>
+    <ClCompile Include="C:\Users\scent\Documents\scent\program\gl-demo\thrid-party\assimp-3.3\code\MD3Loader.cpp">
+      <Filter>MD3</Filter>
+    </ClCompile>
+    <ClCompile Include="C:\Users\scent\Documents\scent\program\gl-demo\thrid-party\assimp-3.3\code\MD5Loader.cpp">
+      <Filter>MD5</Filter>
+    </ClCompile>
+    <ClCompile Include="C:\Users\scent\Documents\scent\program\gl-demo\thrid-party\assimp-3.3\code\MD5Parser.cpp">
+      <Filter>MD5</Filter>
+    </ClCompile>
+    <ClCompile Include="C:\Users\scent\Documents\scent\program\gl-demo\thrid-party\assimp-3.3\code\MDCLoader.cpp">
+      <Filter>MDC</Filter>
+    </ClCompile>
+    <ClCompile Include="C:\Users\scent\Documents\scent\program\gl-demo\thrid-party\assimp-3.3\code\MDLLoader.cpp">
+      <Filter>MDL</Filter>
+    </ClCompile>
+    <ClCompile Include="C:\Users\scent\Documents\scent\program\gl-demo\thrid-party\assimp-3.3\code\MDLMaterialLoader.cpp">
+      <Filter>MDL</Filter>
+    </ClCompile>
+    <ClCompile Include="C:\Users\scent\Documents\scent\program\gl-demo\thrid-party\assimp-3.3\code\NFFLoader.cpp">
+      <Filter>NFF</Filter>
+    </ClCompile>
+    <ClCompile Include="C:\Users\scent\Documents\scent\program\gl-demo\thrid-party\assimp-3.3\code\NDOLoader.cpp">
+      <Filter>NDO</Filter>
+    </ClCompile>
+    <ClCompile Include="C:\Users\scent\Documents\scent\program\gl-demo\thrid-party\assimp-3.3\code\OFFLoader.cpp">
+      <Filter>OFF</Filter>
+    </ClCompile>
+    <ClCompile Include="C:\Users\scent\Documents\scent\program\gl-demo\thrid-party\assimp-3.3\code\ObjFileImporter.cpp">
+      <Filter>OBJ</Filter>
+    </ClCompile>
+    <ClCompile Include="C:\Users\scent\Documents\scent\program\gl-demo\thrid-party\assimp-3.3\code\ObjFileMtlImporter.cpp">
+      <Filter>OBJ</Filter>
+    </ClCompile>
+    <ClCompile Include="C:\Users\scent\Documents\scent\program\gl-demo\thrid-party\assimp-3.3\code\ObjFileParser.cpp">
+      <Filter>OBJ</Filter>
+    </ClCompile>
+    <ClCompile Include="C:\Users\scent\Documents\scent\program\gl-demo\thrid-party\assimp-3.3\code\ObjExporter.cpp">
+      <Filter>OBJ</Filter>
+    </ClCompile>
+    <ClCompile Include="C:\Users\scent\Documents\scent\program\gl-demo\thrid-party\assimp-3.3\code\OgreImporter.cpp">
+      <Filter>OGRE</Filter>
+    </ClCompile>
+    <ClCompile Include="C:\Users\scent\Documents\scent\program\gl-demo\thrid-party\assimp-3.3\code\OgreStructs.cpp">
+      <Filter>OGRE</Filter>
+    </ClCompile>
+    <ClCompile Include="C:\Users\scent\Documents\scent\program\gl-demo\thrid-party\assimp-3.3\code\OgreBinarySerializer.cpp">
+      <Filter>OGRE</Filter>
+    </ClCompile>
+    <ClCompile Include="C:\Users\scent\Documents\scent\program\gl-demo\thrid-party\assimp-3.3\code\OgreXmlSerializer.cpp">
+      <Filter>OGRE</Filter>
+    </ClCompile>
+    <ClCompile Include="C:\Users\scent\Documents\scent\program\gl-demo\thrid-party\assimp-3.3\code\OgreMaterial.cpp">
+      <Filter>OGRE</Filter>
+    </ClCompile>
+    <ClCompile Include="C:\Users\scent\Documents\scent\program\gl-demo\thrid-party\assimp-3.3\code\OpenGEXExporter.cpp">
+      <Filter>OPENGEX</Filter>
+    </ClCompile>
+    <ClCompile Include="C:\Users\scent\Documents\scent\program\gl-demo\thrid-party\assimp-3.3\code\OpenGEXImporter.cpp">
+      <Filter>OPENGEX</Filter>
+    </ClCompile>
+    <ClCompile Include="C:\Users\scent\Documents\scent\program\gl-demo\thrid-party\assimp-3.3\code\PlyLoader.cpp">
+      <Filter>PLY</Filter>
+    </ClCompile>
+    <ClCompile Include="C:\Users\scent\Documents\scent\program\gl-demo\thrid-party\assimp-3.3\code\PlyParser.cpp">
+      <Filter>PLY</Filter>
+    </ClCompile>
+    <ClCompile Include="C:\Users\scent\Documents\scent\program\gl-demo\thrid-party\assimp-3.3\code\PlyExporter.cpp">
+      <Filter>PLY</Filter>
+    </ClCompile>
+    <ClCompile Include="C:\Users\scent\Documents\scent\program\gl-demo\thrid-party\assimp-3.3\code\MS3DLoader.cpp">
+      <Filter>MS3D</Filter>
+    </ClCompile>
+    <ClCompile Include="C:\Users\scent\Documents\scent\program\gl-demo\thrid-party\assimp-3.3\code\COBLoader.cpp">
+      <Filter>COB</Filter>
+    </ClCompile>
+    <ClCompile Include="C:\Users\scent\Documents\scent\program\gl-demo\thrid-party\assimp-3.3\code\BlenderLoader.cpp">
+      <Filter>BLEND</Filter>
+    </ClCompile>
+    <ClCompile Include="C:\Users\scent\Documents\scent\program\gl-demo\thrid-party\assimp-3.3\code\BlenderDNA.cpp">
+      <Filter>BLEND</Filter>
+    </ClCompile>
+    <ClCompile Include="C:\Users\scent\Documents\scent\program\gl-demo\thrid-party\assimp-3.3\code\BlenderScene.cpp">
+      <Filter>BLEND</Filter>
+    </ClCompile>
+    <ClCompile Include="C:\Users\scent\Documents\scent\program\gl-demo\thrid-party\assimp-3.3\code\BlenderModifier.cpp">
+      <Filter>BLEND</Filter>
+    </ClCompile>
+    <ClCompile Include="C:\Users\scent\Documents\scent\program\gl-demo\thrid-party\assimp-3.3\code\BlenderBMesh.cpp">
+      <Filter>BLEND</Filter>
+    </ClCompile>
+    <ClCompile Include="C:\Users\scent\Documents\scent\program\gl-demo\thrid-party\assimp-3.3\code\BlenderTessellator.cpp">
+      <Filter>BLEND</Filter>
+    </ClCompile>
+    <ClCompile Include="C:\Users\scent\Documents\scent\program\gl-demo\thrid-party\assimp-3.3\code\IFCLoader.cpp">
+      <Filter>IFC</Filter>
+    </ClCompile>
+    <ClCompile Include="C:\Users\scent\Documents\scent\program\gl-demo\thrid-party\assimp-3.3\code\IFCReaderGen.cpp">
+      <Filter>IFC</Filter>
+    </ClCompile>
+    <ClCompile Include="C:\Users\scent\Documents\scent\program\gl-demo\thrid-party\assimp-3.3\code\IFCUtil.cpp">
+      <Filter>IFC</Filter>
+    </ClCompile>
+    <ClCompile Include="C:\Users\scent\Documents\scent\program\gl-demo\thrid-party\assimp-3.3\code\IFCGeometry.cpp">
+      <Filter>IFC</Filter>
+    </ClCompile>
+    <ClCompile Include="C:\Users\scent\Documents\scent\program\gl-demo\thrid-party\assimp-3.3\code\IFCMaterial.cpp">
+      <Filter>IFC</Filter>
+    </ClCompile>
+    <ClCompile Include="C:\Users\scent\Documents\scent\program\gl-demo\thrid-party\assimp-3.3\code\IFCProfile.cpp">
+      <Filter>IFC</Filter>
+    </ClCompile>
+    <ClCompile Include="C:\Users\scent\Documents\scent\program\gl-demo\thrid-party\assimp-3.3\code\IFCCurve.cpp">
+      <Filter>IFC</Filter>
+    </ClCompile>
+    <ClCompile Include="C:\Users\scent\Documents\scent\program\gl-demo\thrid-party\assimp-3.3\code\IFCBoolean.cpp">
+      <Filter>IFC</Filter>
+    </ClCompile>
+    <ClCompile Include="C:\Users\scent\Documents\scent\program\gl-demo\thrid-party\assimp-3.3\code\IFCOpenings.cpp">
+      <Filter>IFC</Filter>
+    </ClCompile>
+    <ClCompile Include="C:\Users\scent\Documents\scent\program\gl-demo\thrid-party\assimp-3.3\code\STEPFileReader.cpp">
+      <Filter>IFC</Filter>
+    </ClCompile>
+    <ClCompile Include="C:\Users\scent\Documents\scent\program\gl-demo\thrid-party\assimp-3.3\code\STEPFileEncoding.cpp">
+      <Filter>IFC</Filter>
+    </ClCompile>
+    <ClCompile Include="C:\Users\scent\Documents\scent\program\gl-demo\thrid-party\assimp-3.3\code\XGLLoader.cpp">
+      <Filter>XGL</Filter>
+    </ClCompile>
+    <ClCompile Include="C:\Users\scent\Documents\scent\program\gl-demo\thrid-party\assimp-3.3\code\FBXImporter.cpp">
+      <Filter>FBX</Filter>
+    </ClCompile>
+    <ClCompile Include="C:\Users\scent\Documents\scent\program\gl-demo\thrid-party\assimp-3.3\code\FBXParser.cpp">
+      <Filter>FBX</Filter>
+    </ClCompile>
+    <ClCompile Include="C:\Users\scent\Documents\scent\program\gl-demo\thrid-party\assimp-3.3\code\FBXTokenizer.cpp">
+      <Filter>FBX</Filter>
+    </ClCompile>
+    <ClCompile Include="C:\Users\scent\Documents\scent\program\gl-demo\thrid-party\assimp-3.3\code\FBXConverter.cpp">
+      <Filter>FBX</Filter>
+    </ClCompile>
+    <ClCompile Include="C:\Users\scent\Documents\scent\program\gl-demo\thrid-party\assimp-3.3\code\FBXUtil.cpp">
+      <Filter>FBX</Filter>
+    </ClCompile>
+    <ClCompile Include="C:\Users\scent\Documents\scent\program\gl-demo\thrid-party\assimp-3.3\code\FBXDocument.cpp">
+      <Filter>FBX</Filter>
+    </ClCompile>
+    <ClCompile Include="C:\Users\scent\Documents\scent\program\gl-demo\thrid-party\assimp-3.3\code\FBXProperties.cpp">
+      <Filter>FBX</Filter>
+    </ClCompile>
+    <ClCompile Include="C:\Users\scent\Documents\scent\program\gl-demo\thrid-party\assimp-3.3\code\FBXMeshGeometry.cpp">
+      <Filter>FBX</Filter>
+    </ClCompile>
+    <ClCompile Include="C:\Users\scent\Documents\scent\program\gl-demo\thrid-party\assimp-3.3\code\FBXMaterial.cpp">
+      <Filter>FBX</Filter>
+    </ClCompile>
+    <ClCompile Include="C:\Users\scent\Documents\scent\program\gl-demo\thrid-party\assimp-3.3\code\FBXModel.cpp">
+      <Filter>FBX</Filter>
+    </ClCompile>
+    <ClCompile Include="C:\Users\scent\Documents\scent\program\gl-demo\thrid-party\assimp-3.3\code\FBXAnimation.cpp">
+      <Filter>FBX</Filter>
+    </ClCompile>
+    <ClCompile Include="C:\Users\scent\Documents\scent\program\gl-demo\thrid-party\assimp-3.3\code\FBXNodeAttribute.cpp">
+      <Filter>FBX</Filter>
+    </ClCompile>
+    <ClCompile Include="C:\Users\scent\Documents\scent\program\gl-demo\thrid-party\assimp-3.3\code\FBXDeformer.cpp">
+      <Filter>FBX</Filter>
+    </ClCompile>
+    <ClCompile Include="C:\Users\scent\Documents\scent\program\gl-demo\thrid-party\assimp-3.3\code\FBXBinaryTokenizer.cpp">
+      <Filter>FBX</Filter>
+    </ClCompile>
+    <ClCompile Include="C:\Users\scent\Documents\scent\program\gl-demo\thrid-party\assimp-3.3\code\FBXDocumentUtil.cpp">
+      <Filter>FBX</Filter>
+    </ClCompile>
+    <ClCompile Include="C:\Users\scent\Documents\scent\program\gl-demo\thrid-party\assimp-3.3\code\Q3DLoader.cpp">
+      <Filter>Q3D</Filter>
+    </ClCompile>
+    <ClCompile Include="C:\Users\scent\Documents\scent\program\gl-demo\thrid-party\assimp-3.3\code\Q3BSPFileParser.cpp">
+      <Filter>Q3BSP</Filter>
+    </ClCompile>
+    <ClCompile Include="C:\Users\scent\Documents\scent\program\gl-demo\thrid-party\assimp-3.3\code\Q3BSPFileImporter.cpp">
+      <Filter>Q3BSP</Filter>
+    </ClCompile>
+    <ClCompile Include="C:\Users\scent\Documents\scent\program\gl-demo\thrid-party\assimp-3.3\code\Q3BSPZipArchive.cpp">
+      <Filter>Q3BSP</Filter>
+    </ClCompile>
+    <ClCompile Include="C:\Users\scent\Documents\scent\program\gl-demo\thrid-party\assimp-3.3\code\RawLoader.cpp">
+      <Filter>RAW</Filter>
+    </ClCompile>
+    <ClCompile Include="C:\Users\scent\Documents\scent\program\gl-demo\thrid-party\assimp-3.3\code\SIBImporter.cpp">
+      <Filter>SIB</Filter>
+    </ClCompile>
+    <ClCompile Include="C:\Users\scent\Documents\scent\program\gl-demo\thrid-party\assimp-3.3\code\SMDLoader.cpp">
+      <Filter>SMD</Filter>
+    </ClCompile>
+    <ClCompile Include="C:\Users\scent\Documents\scent\program\gl-demo\thrid-party\assimp-3.3\code\STLLoader.cpp">
+      <Filter>STL</Filter>
+    </ClCompile>
+    <ClCompile Include="C:\Users\scent\Documents\scent\program\gl-demo\thrid-party\assimp-3.3\code\STLExporter.cpp">
+      <Filter>STL</Filter>
+    </ClCompile>
+    <ClCompile Include="C:\Users\scent\Documents\scent\program\gl-demo\thrid-party\assimp-3.3\code\TerragenLoader.cpp">
+      <Filter>TERRAGEN</Filter>
+    </ClCompile>
+    <ClCompile Include="C:\Users\scent\Documents\scent\program\gl-demo\thrid-party\assimp-3.3\code\UnrealLoader.cpp">
+      <Filter>3D</Filter>
+    </ClCompile>
+    <ClCompile Include="C:\Users\scent\Documents\scent\program\gl-demo\thrid-party\assimp-3.3\code\XFileImporter.cpp">
+      <Filter>X</Filter>
+    </ClCompile>
+    <ClCompile Include="C:\Users\scent\Documents\scent\program\gl-demo\thrid-party\assimp-3.3\code\XFileParser.cpp">
+      <Filter>X</Filter>
+    </ClCompile>
+    <ClCompile Include="C:\Users\scent\Documents\scent\program\gl-demo\thrid-party\assimp-3.3\code\XFileExporter.cpp">
+      <Filter>X</Filter>
+    </ClCompile>
+    <ClCompile Include="C:\Users\scent\Documents\scent\program\gl-demo\thrid-party\assimp-3.3\code\glTFImporter.cpp">
+      <Filter>GLTF</Filter>
+    </ClCompile>
+    <ClCompile Include="C:\Users\scent\Documents\scent\program\gl-demo\thrid-party\assimp-3.3\code\glTFExporter.cpp">
+      <Filter>GLTF</Filter>
+    </ClCompile>
+    <ClCompile Include="C:\Users\scent\Documents\scent\program\gl-demo\thrid-party\assimp-3.3\code\D3MFImporter.cpp">
+      <Filter>3MF</Filter>
+    </ClCompile>
+    <ClCompile Include="C:\Users\scent\Documents\scent\program\gl-demo\thrid-party\assimp-3.3\code\D3MFOpcPackage.cpp">
+      <Filter>3MF</Filter>
+    </ClCompile>
+    <ClCompile Include="C:\Users\scent\Documents\scent\program\gl-demo\thrid-party\assimp-3.3\contrib\irrXML\irrXML.cpp">
+      <Filter>IrrXML</Filter>
+    </ClCompile>
+    <ClCompile Include="C:\Users\scent\Documents\scent\program\gl-demo\thrid-party\assimp-3.3\contrib\ConvertUTF\ConvertUTF.c">
+      <Filter>ConvertUTF</Filter>
+    </ClCompile>
+    <ClCompile Include="C:\Users\scent\Documents\scent\program\gl-demo\thrid-party\assimp-3.3\contrib\unzip\ioapi.c">
+      <Filter>unzip</Filter>
+    </ClCompile>
+    <ClCompile Include="C:\Users\scent\Documents\scent\program\gl-demo\thrid-party\assimp-3.3\contrib\unzip\unzip.c">
+      <Filter>unzip</Filter>
+    </ClCompile>
+    <ClCompile Include="C:\Users\scent\Documents\scent\program\gl-demo\thrid-party\assimp-3.3\contrib\poly2tri\poly2tri\common\shapes.cc">
+      <Filter>Poly2Tri</Filter>
+    </ClCompile>
+    <ClCompile Include="C:\Users\scent\Documents\scent\program\gl-demo\thrid-party\assimp-3.3\contrib\poly2tri\poly2tri\sweep\advancing_front.cc">
+      <Filter>Poly2Tri</Filter>
+    </ClCompile>
+    <ClCompile Include="C:\Users\scent\Documents\scent\program\gl-demo\thrid-party\assimp-3.3\contrib\poly2tri\poly2tri\sweep\cdt.cc">
+      <Filter>Poly2Tri</Filter>
+    </ClCompile>
+    <ClCompile Include="C:\Users\scent\Documents\scent\program\gl-demo\thrid-party\assimp-3.3\contrib\poly2tri\poly2tri\sweep\sweep.cc">
+      <Filter>Poly2Tri</Filter>
+    </ClCompile>
+    <ClCompile Include="C:\Users\scent\Documents\scent\program\gl-demo\thrid-party\assimp-3.3\contrib\poly2tri\poly2tri\sweep\sweep_context.cc">
+      <Filter>Poly2Tri</Filter>
+    </ClCompile>
+    <ClCompile Include="C:\Users\scent\Documents\scent\program\gl-demo\thrid-party\assimp-3.3\contrib\clipper\clipper.cpp">
+      <Filter>Clipper</Filter>
+    </ClCompile>
+    <ClCompile Include="C:\Users\scent\Documents\scent\program\gl-demo\thrid-party\assimp-3.3\contrib\openddlparser\code\OpenDDLParser.cpp">
+      <Filter>openddl_parser</Filter>
+    </ClCompile>
+    <ClCompile Include="C:\Users\scent\Documents\scent\program\gl-demo\thrid-party\assimp-3.3\contrib\openddlparser\code\DDLNode.cpp">
+      <Filter>openddl_parser</Filter>
+    </ClCompile>
+    <ClCompile Include="C:\Users\scent\Documents\scent\program\gl-demo\thrid-party\assimp-3.3\contrib\openddlparser\code\OpenDDLCommon.cpp">
+      <Filter>openddl_parser</Filter>
+    </ClCompile>
+    <ClCompile Include="C:\Users\scent\Documents\scent\program\gl-demo\thrid-party\assimp-3.3\contrib\openddlparser\code\OpenDDLExport.cpp">
+      <Filter>openddl_parser</Filter>
+    </ClCompile>
+    <ClCompile Include="C:\Users\scent\Documents\scent\program\gl-demo\thrid-party\assimp-3.3\contrib\openddlparser\code\Value.cpp">
+      <Filter>openddl_parser</Filter>
+    </ClCompile>
+  </ItemGroup>
+  <ItemGroup>
+    <ClInclude Include="C:\Users\scent\Documents\scent\program\gl-demo\thrid-party\assimp-3.3\code\fast_atof.h">
+      <Filter>Common</Filter>
+    </ClInclude>
+    <ClInclude Include="C:\Users\scent\Documents\scent\program\gl-demo\thrid-party\assimp-3.3\code\qnan.h">
+      <Filter>Common</Filter>
+    </ClInclude>
+    <ClInclude Include="C:\Users\scent\Documents\scent\program\gl-demo\thrid-party\assimp-3.3\code\BaseImporter.h">
+      <Filter>Common</Filter>
+    </ClInclude>
+    <ClInclude Include="C:\Users\scent\Documents\scent\program\gl-demo\thrid-party\assimp-3.3\code\BaseProcess.h">
+      <Filter>Common</Filter>
+    </ClInclude>
+    <ClInclude Include="C:\Users\scent\Documents\scent\program\gl-demo\thrid-party\assimp-3.3\code\Importer.h">
+      <Filter>Common</Filter>
+    </ClInclude>
+    <ClInclude Include="C:\Users\scent\Documents\scent\program\gl-demo\thrid-party\assimp-3.3\code\ScenePrivate.h">
+      <Filter>Common</Filter>
+    </ClInclude>
+    <ClInclude Include="C:\Users\scent\Documents\scent\program\gl-demo\thrid-party\assimp-3.3\code\ByteSwapper.h">
+      <Filter>Common</Filter>
+    </ClInclude>
+    <ClInclude Include="C:\Users\scent\Documents\scent\program\gl-demo\thrid-party\assimp-3.3\code\DefaultProgressHandler.h">
+      <Filter>Common</Filter>
+    </ClInclude>
+    <ClInclude Include="C:\Users\scent\Documents\scent\program\gl-demo\thrid-party\assimp-3.3\code\DefaultIOStream.h">
+      <Filter>Common</Filter>
+    </ClInclude>
+    <ClInclude Include="C:\Users\scent\Documents\scent\program\gl-demo\thrid-party\assimp-3.3\code\DefaultIOSystem.h">
+      <Filter>Common</Filter>
+    </ClInclude>
+    <ClInclude Include="C:\Users\scent\Documents\scent\program\gl-demo\thrid-party\assimp-3.3\code\CInterfaceIOWrapper.h">
+      <Filter>Common</Filter>
+    </ClInclude>
+    <ClInclude Include="C:\Users\scent\Documents\scent\program\gl-demo\thrid-party\assimp-3.3\code\Hash.h">
+      <Filter>Common</Filter>
+    </ClInclude>
+    <ClInclude Include="C:\Users\scent\Documents\scent\program\gl-demo\thrid-party\assimp-3.3\code\IFF.h">
+      <Filter>Common</Filter>
+    </ClInclude>
+    <ClInclude Include="C:\Users\scent\Documents\scent\program\gl-demo\thrid-party\assimp-3.3\code\MemoryIOWrapper.h">
+      <Filter>Common</Filter>
+    </ClInclude>
+    <ClInclude Include="C:\Users\scent\Documents\scent\program\gl-demo\thrid-party\assimp-3.3\code\ParsingUtils.h">
+      <Filter>Common</Filter>
+    </ClInclude>
+    <ClInclude Include="C:\Users\scent\Documents\scent\program\gl-demo\thrid-party\assimp-3.3\code\StreamReader.h">
+      <Filter>Common</Filter>
+    </ClInclude>
+    <ClInclude Include="C:\Users\scent\Documents\scent\program\gl-demo\thrid-party\assimp-3.3\code\StreamWriter.h">
+      <Filter>Common</Filter>
+    </ClInclude>
+    <ClInclude Include="C:\Users\scent\Documents\scent\program\gl-demo\thrid-party\assimp-3.3\code\StringComparison.h">
+      <Filter>Common</Filter>
+    </ClInclude>
+    <ClInclude Include="C:\Users\scent\Documents\scent\program\gl-demo\thrid-party\assimp-3.3\code\StringUtils.h">
+      <Filter>Common</Filter>
+    </ClInclude>
+    <ClInclude Include="C:\Users\scent\Documents\scent\program\gl-demo\thrid-party\assimp-3.3\code\SGSpatialSort.h">
+      <Filter>Common</Filter>
+    </ClInclude>
+    <ClInclude Include="C:\Users\scent\Documents\scent\program\gl-demo\thrid-party\assimp-3.3\code\VertexTriangleAdjacency.h">
+      <Filter>Common</Filter>
+    </ClInclude>
+    <ClInclude Include="C:\Users\scent\Documents\scent\program\gl-demo\thrid-party\assimp-3.3\code\GenericProperty.h">
+      <Filter>Common</Filter>
+    </ClInclude>
+    <ClInclude Include="C:\Users\scent\Documents\scent\program\gl-demo\thrid-party\assimp-3.3\code\SpatialSort.h">
+      <Filter>Common</Filter>
+    </ClInclude>
+    <ClInclude Include="C:\Users\scent\Documents\scent\program\gl-demo\thrid-party\assimp-3.3\code\SceneCombiner.h">
+      <Filter>Common</Filter>
+    </ClInclude>
+    <ClInclude Include="C:\Users\scent\Documents\scent\program\gl-demo\thrid-party\assimp-3.3\code\ScenePreprocessor.h">
+      <Filter>Common</Filter>
+    </ClInclude>
+    <ClInclude Include="C:\Users\scent\Documents\scent\program\gl-demo\thrid-party\assimp-3.3\code\SkeletonMeshBuilder.h">
+      <Filter>Common</Filter>
+    </ClInclude>
+    <ClInclude Include="C:\Users\scent\Documents\scent\program\gl-demo\thrid-party\assimp-3.3\code\SplitByBoneCountProcess.h">
+      <Filter>Common</Filter>
+    </ClInclude>
+    <ClInclude Include="C:\Users\scent\Documents\scent\program\gl-demo\thrid-party\assimp-3.3\code\SmoothingGroups.h">
+      <Filter>Common</Filter>
+    </ClInclude>
+    <ClInclude Include="C:\Users\scent\Documents\scent\program\gl-demo\thrid-party\assimp-3.3\code\StandardShapes.h">
+      <Filter>Common</Filter>
+    </ClInclude>
+    <ClInclude Include="C:\Users\scent\Documents\scent\program\gl-demo\thrid-party\assimp-3.3\code\TargetAnimation.h">
+      <Filter>Common</Filter>
+    </ClInclude>
+    <ClInclude Include="C:\Users\scent\Documents\scent\program\gl-demo\thrid-party\assimp-3.3\code\RemoveComments.h">
+      <Filter>Common</Filter>
+    </ClInclude>
+    <ClInclude Include="C:\Users\scent\Documents\scent\program\gl-demo\thrid-party\assimp-3.3\code\Subdivision.h">
+      <Filter>Common</Filter>
+    </ClInclude>
+    <ClInclude Include="C:\Users\scent\Documents\scent\program\gl-demo\thrid-party\assimp-3.3\code\Vertex.h">
+      <Filter>Common</Filter>
+    </ClInclude>
+    <ClInclude Include="C:\Users\scent\Documents\scent\program\gl-demo\thrid-party\assimp-3.3\code\LineSplitter.h">
+      <Filter>Common</Filter>
+    </ClInclude>
+    <ClInclude Include="C:\Users\scent\Documents\scent\program\gl-demo\thrid-party\assimp-3.3\code\TinyFormatter.h">
+      <Filter>Common</Filter>
+    </ClInclude>
+    <ClInclude Include="C:\Users\scent\Documents\scent\program\gl-demo\thrid-party\assimp-3.3\code\Profiler.h">
+      <Filter>Common</Filter>
+    </ClInclude>
+    <ClInclude Include="C:\Users\scent\Documents\scent\program\gl-demo\thrid-party\assimp-3.3\code\LogAux.h">
+      <Filter>Common</Filter>
+    </ClInclude>
+    <ClInclude Include="C:\Users\scent\Documents\scent\program\gl-demo\thrid-party\assimp-3.3\code\Bitmap.h">
+      <Filter>Common</Filter>
+    </ClInclude>
+    <ClInclude Include="C:\Users\scent\Documents\scent\program\gl-demo\thrid-party\assimp-3.3\code\XMLTools.h">
+      <Filter>Common</Filter>
+    </ClInclude>
+    <ClInclude Include="C:\Users\scent\Documents\scent\program\gl-demo\thrid-party\assimp-3.3\include\assimp\DefaultLogger.hpp">
+      <Filter>Logging</Filter>
+    </ClInclude>
+    <ClInclude Include="C:\Users\scent\Documents\scent\program\gl-demo\thrid-party\assimp-3.3\include\assimp\LogStream.hpp">
+      <Filter>Logging</Filter>
+    </ClInclude>
+    <ClInclude Include="C:\Users\scent\Documents\scent\program\gl-demo\thrid-party\assimp-3.3\include\assimp\Logger.hpp">
+      <Filter>Logging</Filter>
+    </ClInclude>
+    <ClInclude Include="C:\Users\scent\Documents\scent\program\gl-demo\thrid-party\assimp-3.3\include\assimp\NullLogger.hpp">
+      <Filter>Logging</Filter>
+    </ClInclude>
+    <ClInclude Include="C:\Users\scent\Documents\scent\program\gl-demo\thrid-party\assimp-3.3\code\Win32DebugLogStream.h">
+      <Filter>Logging</Filter>
+    </ClInclude>
+    <ClInclude Include="C:\Users\scent\Documents\scent\program\gl-demo\thrid-party\assimp-3.3\code\FileLogStream.h">
+      <Filter>Logging</Filter>
+    </ClInclude>
+    <ClInclude Include="C:\Users\scent\Documents\scent\program\gl-demo\thrid-party\assimp-3.3\code\StdOStreamLogStream.h">
+      <Filter>Logging</Filter>
+    </ClInclude>
+    <ClInclude Include="C:\Users\scent\Documents\scent\program\gl-demo\thrid-party\assimp-3.3\code\BlobIOSystem.h">
+      <Filter>Exporter</Filter>
+    </ClInclude>
+    <ClInclude Include="C:\Users\scent\Documents\scent\program\gl-demo\thrid-party\assimp-3.3\code\CalcTangentsProcess.h">
+      <Filter>PostProcessing</Filter>
+    </ClInclude>
+    <ClInclude Include="C:\Users\scent\Documents\scent\program\gl-demo\thrid-party\assimp-3.3\code\ComputeUVMappingProcess.h">
+      <Filter>PostProcessing</Filter>
+    </ClInclude>
+    <ClInclude Include="C:\Users\scent\Documents\scent\program\gl-demo\thrid-party\assimp-3.3\code\ConvertToLHProcess.h">
+      <Filter>PostProcessing</Filter>
+    </ClInclude>
+    <ClInclude Include="C:\Users\scent\Documents\scent\program\gl-demo\thrid-party\assimp-3.3\code\FindDegenerates.h">
+      <Filter>PostProcessing</Filter>
+    </ClInclude>
+    <ClInclude Include="C:\Users\scent\Documents\scent\program\gl-demo\thrid-party\assimp-3.3\code\FindInstancesProcess.h">
+      <Filter>PostProcessing</Filter>
+    </ClInclude>
+    <ClInclude Include="C:\Users\scent\Documents\scent\program\gl-demo\thrid-party\assimp-3.3\code\FindInvalidDataProcess.h">
+      <Filter>PostProcessing</Filter>
+    </ClInclude>
+    <ClInclude Include="C:\Users\scent\Documents\scent\program\gl-demo\thrid-party\assimp-3.3\code\FixNormalsStep.h">
+      <Filter>PostProcessing</Filter>
+    </ClInclude>
+    <ClInclude Include="C:\Users\scent\Documents\scent\program\gl-demo\thrid-party\assimp-3.3\code\GenFaceNormalsProcess.h">
+      <Filter>PostProcessing</Filter>
+    </ClInclude>
+    <ClInclude Include="C:\Users\scent\Documents\scent\program\gl-demo\thrid-party\assimp-3.3\code\GenVertexNormalsProcess.h">
+      <Filter>PostProcessing</Filter>
+    </ClInclude>
+    <ClInclude Include="C:\Users\scent\Documents\scent\program\gl-demo\thrid-party\assimp-3.3\code\PretransformVertices.h">
+      <Filter>PostProcessing</Filter>
+    </ClInclude>
+    <ClInclude Include="C:\Users\scent\Documents\scent\program\gl-demo\thrid-party\assimp-3.3\code\ImproveCacheLocality.h">
+      <Filter>PostProcessing</Filter>
+    </ClInclude>
+    <ClInclude Include="C:\Users\scent\Documents\scent\program\gl-demo\thrid-party\assimp-3.3\code\JoinVerticesProcess.h">
+      <Filter>PostProcessing</Filter>
+    </ClInclude>
+    <ClInclude Include="C:\Users\scent\Documents\scent\program\gl-demo\thrid-party\assimp-3.3\code\LimitBoneWeightsProcess.h">
+      <Filter>PostProcessing</Filter>
+    </ClInclude>
+    <ClInclude Include="C:\Users\scent\Documents\scent\program\gl-demo\thrid-party\assimp-3.3\code\RemoveRedundantMaterials.h">
+      <Filter>PostProcessing</Filter>
+    </ClInclude>
+    <ClInclude Include="C:\Users\scent\Documents\scent\program\gl-demo\thrid-party\assimp-3.3\code\RemoveVCProcess.h">
+      <Filter>PostProcessing</Filter>
+    </ClInclude>
+    <ClInclude Include="C:\Users\scent\Documents\scent\program\gl-demo\thrid-party\assimp-3.3\code\SortByPTypeProcess.h">
+      <Filter>PostProcessing</Filter>
+    </ClInclude>
+    <ClInclude Include="C:\Users\scent\Documents\scent\program\gl-demo\thrid-party\assimp-3.3\code\SplitLargeMeshes.h">
+      <Filter>PostProcessing</Filter>
+    </ClInclude>
+    <ClInclude Include="C:\Users\scent\Documents\scent\program\gl-demo\thrid-party\assimp-3.3\code\TextureTransform.h">
+      <Filter>PostProcessing</Filter>
+    </ClInclude>
+    <ClInclude Include="C:\Users\scent\Documents\scent\program\gl-demo\thrid-party\assimp-3.3\code\TriangulateProcess.h">
+      <Filter>PostProcessing</Filter>
+    </ClInclude>
+    <ClInclude Include="C:\Users\scent\Documents\scent\program\gl-demo\thrid-party\assimp-3.3\code\ValidateDataStructure.h">
+      <Filter>PostProcessing</Filter>
+    </ClInclude>
+    <ClInclude Include="C:\Users\scent\Documents\scent\program\gl-demo\thrid-party\assimp-3.3\code\OptimizeGraph.h">
+      <Filter>PostProcessing</Filter>
+    </ClInclude>
+    <ClInclude Include="C:\Users\scent\Documents\scent\program\gl-demo\thrid-party\assimp-3.3\code\OptimizeMeshes.h">
+      <Filter>PostProcessing</Filter>
+    </ClInclude>
+    <ClInclude Include="C:\Users\scent\Documents\scent\program\gl-demo\thrid-party\assimp-3.3\code\DeboneProcess.h">
+      <Filter>PostProcessing</Filter>
+    </ClInclude>
+    <ClInclude Include="C:\Users\scent\Documents\scent\program\gl-demo\thrid-party\assimp-3.3\code\ProcessHelper.h">
+      <Filter>PostProcessing</Filter>
+    </ClInclude>
+    <ClInclude Include="C:\Users\scent\Documents\scent\program\gl-demo\thrid-party\assimp-3.3\code\PolyTools.h">
+      <Filter>PostProcessing</Filter>
+    </ClInclude>
+    <ClInclude Include="C:\Users\scent\Documents\scent\program\gl-demo\thrid-party\assimp-3.3\code\MakeVerboseFormat.h">
+      <Filter>PostProcessing</Filter>
+    </ClInclude>
+    <ClInclude Include="C:\Users\scent\Documents\scent\program\gl-demo\thrid-party\assimp-3.3\code\MaterialSystem.h">
+      <Filter>MaterialSystem</Filter>
+    </ClInclude>
+    <ClInclude Include="C:\Users\scent\Documents\scent\program\gl-demo\thrid-party\assimp-3.3\code\StepExporter.h">
+      <Filter>Step</Filter>
+    </ClInclude>
+    <ClInclude Include="C:\Users\scent\Documents\scent\program\gl-demo\thrid-party\assimp-3.3\code\3DSHelper.h">
+      <Filter>3DS</Filter>
+    </ClInclude>
+    <ClInclude Include="C:\Users\scent\Documents\scent\program\gl-demo\thrid-party\assimp-3.3\code\3DSLoader.h">
+      <Filter>3DS</Filter>
+    </ClInclude>
+    <ClInclude Include="C:\Users\scent\Documents\scent\program\gl-demo\thrid-party\assimp-3.3\code\3DSExporter.h">
+      <Filter>3DS</Filter>
+    </ClInclude>
+    <ClInclude Include="C:\Users\scent\Documents\scent\program\gl-demo\thrid-party\assimp-3.3\code\ACLoader.h">
+      <Filter>AC</Filter>
+    </ClInclude>
+    <ClInclude Include="C:\Users\scent\Documents\scent\program\gl-demo\thrid-party\assimp-3.3\code\ASELoader.h">
+      <Filter>ASE</Filter>
+    </ClInclude>
+    <ClInclude Include="C:\Users\scent\Documents\scent\program\gl-demo\thrid-party\assimp-3.3\code\ASEParser.h">
+      <Filter>ASE</Filter>
+    </ClInclude>
+    <ClInclude Include="C:\Users\scent\Documents\scent\program\gl-demo\thrid-party\assimp-3.3\code\AssbinExporter.h">
+      <Filter>ASSBIN</Filter>
+    </ClInclude>
+    <ClInclude Include="C:\Users\scent\Documents\scent\program\gl-demo\thrid-party\assimp-3.3\code\AssbinLoader.h">
+      <Filter>ASSBIN</Filter>
+    </ClInclude>
+    <ClInclude Include="C:\Users\scent\Documents\scent\program\gl-demo\thrid-party\assimp-3.3\code\AssxmlExporter.h">
+      <Filter>ASSXML</Filter>
+    </ClInclude>
+    <ClInclude Include="C:\Users\scent\Documents\scent\program\gl-demo\thrid-party\assimp-3.3\code\B3DImporter.h">
+      <Filter>B3D</Filter>
+    </ClInclude>
+    <ClInclude Include="C:\Users\scent\Documents\scent\program\gl-demo\thrid-party\assimp-3.3\code\BVHLoader.h">
+      <Filter>BVH</Filter>
+    </ClInclude>
+    <ClInclude Include="C:\Users\scent\Documents\scent\program\gl-demo\thrid-party\assimp-3.3\code\ColladaHelper.h">
+      <Filter>COLLADA</Filter>
+    </ClInclude>
+    <ClInclude Include="C:\Users\scent\Documents\scent\program\gl-demo\thrid-party\assimp-3.3\code\ColladaLoader.h">
+      <Filter>COLLADA</Filter>
+    </ClInclude>
+    <ClInclude Include="C:\Users\scent\Documents\scent\program\gl-demo\thrid-party\assimp-3.3\code\ColladaParser.h">
+      <Filter>COLLADA</Filter>
+    </ClInclude>
+    <ClInclude Include="C:\Users\scent\Documents\scent\program\gl-demo\thrid-party\assimp-3.3\code\ColladaExporter.h">
+      <Filter>COLLADA</Filter>
+    </ClInclude>
+    <ClInclude Include="C:\Users\scent\Documents\scent\program\gl-demo\thrid-party\assimp-3.3\code\DXFLoader.h">
+      <Filter>DXF</Filter>
+    </ClInclude>
+    <ClInclude Include="C:\Users\scent\Documents\scent\program\gl-demo\thrid-party\assimp-3.3\code\DXFHelper.h">
+      <Filter>DXF</Filter>
+    </ClInclude>
+    <ClInclude Include="C:\Users\scent\Documents\scent\program\gl-demo\thrid-party\assimp-3.3\code\CSMLoader.h">
+      <Filter>CSM</Filter>
+    </ClInclude>
+    <ClInclude Include="C:\Users\scent\Documents\scent\program\gl-demo\thrid-party\assimp-3.3\code\HMPFileData.h">
+      <Filter>HMP</Filter>
+    </ClInclude>
+    <ClInclude Include="C:\Users\scent\Documents\scent\program\gl-demo\thrid-party\assimp-3.3\code\HMPLoader.h">
+      <Filter>HMP</Filter>
+    </ClInclude>
+    <ClInclude Include="C:\Users\scent\Documents\scent\program\gl-demo\thrid-party\assimp-3.3\code\HalfLifeFileData.h">
+      <Filter>HMP</Filter>
+    </ClInclude>
+    <ClInclude Include="C:\Users\scent\Documents\scent\program\gl-demo\thrid-party\assimp-3.3\code\IRRMeshLoader.h">
+      <Filter>IRRMESH</Filter>
+    </ClInclude>
+    <ClInclude Include="C:\Users\scent\Documents\scent\program\gl-demo\thrid-party\assimp-3.3\code\IRRShared.h">
+      <Filter>IRR</Filter>
+    </ClInclude>
+    <ClInclude Include="C:\Users\scent\Documents\scent\program\gl-demo\thrid-party\assimp-3.3\code\IRRLoader.h">
+      <Filter>IRR</Filter>
+    </ClInclude>
+    <ClInclude Include="C:\Users\scent\Documents\scent\program\gl-demo\thrid-party\assimp-3.3\code\LWOAnimation.h">
+      <Filter>LWO</Filter>
+    </ClInclude>
+    <ClInclude Include="C:\Users\scent\Documents\scent\program\gl-demo\thrid-party\assimp-3.3\code\LWOFileData.h">
+      <Filter>LWO</Filter>
+    </ClInclude>
+    <ClInclude Include="C:\Users\scent\Documents\scent\program\gl-demo\thrid-party\assimp-3.3\code\LWOLoader.h">
+      <Filter>LWO</Filter>
+    </ClInclude>
+    <ClInclude Include="C:\Users\scent\Documents\scent\program\gl-demo\thrid-party\assimp-3.3\code\LWSLoader.h">
+      <Filter>LWS</Filter>
+    </ClInclude>
+    <ClInclude Include="C:\Users\scent\Documents\scent\program\gl-demo\thrid-party\assimp-3.3\code\MD2FileData.h">
+      <Filter>MD2</Filter>
+    </ClInclude>
+    <ClInclude Include="C:\Users\scent\Documents\scent\program\gl-demo\thrid-party\assimp-3.3\code\MD2Loader.h">
+      <Filter>MD2</Filter>
+    </ClInclude>
+    <ClInclude Include="C:\Users\scent\Documents\scent\program\gl-demo\thrid-party\assimp-3.3\code\MD2NormalTable.h">
+      <Filter>MD2</Filter>
+    </ClInclude>
+    <ClInclude Include="C:\Users\scent\Documents\scent\program\gl-demo\thrid-party\assimp-3.3\code\MD3FileData.h">
+      <Filter>MD3</Filter>
+    </ClInclude>
+    <ClInclude Include="C:\Users\scent\Documents\scent\program\gl-demo\thrid-party\assimp-3.3\code\MD3Loader.h">
+      <Filter>MD3</Filter>
+    </ClInclude>
+    <ClInclude Include="C:\Users\scent\Documents\scent\program\gl-demo\thrid-party\assimp-3.3\code\MD5Loader.h">
+      <Filter>MD5</Filter>
+    </ClInclude>
+    <ClInclude Include="C:\Users\scent\Documents\scent\program\gl-demo\thrid-party\assimp-3.3\code\MD5Parser.h">
+      <Filter>MD5</Filter>
+    </ClInclude>
+    <ClInclude Include="C:\Users\scent\Documents\scent\program\gl-demo\thrid-party\assimp-3.3\code\MDCFileData.h">
+      <Filter>MDC</Filter>
+    </ClInclude>
+    <ClInclude Include="C:\Users\scent\Documents\scent\program\gl-demo\thrid-party\assimp-3.3\code\MDCLoader.h">
+      <Filter>MDC</Filter>
+    </ClInclude>
+    <ClInclude Include="C:\Users\scent\Documents\scent\program\gl-demo\thrid-party\assimp-3.3\code\MDCNormalTable.h">
+      <Filter>MDC</Filter>
+    </ClInclude>
+    <ClInclude Include="C:\Users\scent\Documents\scent\program\gl-demo\thrid-party\assimp-3.3\code\MDLDefaultColorMap.h">
+      <Filter>MDL</Filter>
+    </ClInclude>
+    <ClInclude Include="C:\Users\scent\Documents\scent\program\gl-demo\thrid-party\assimp-3.3\code\MDLFileData.h">
+      <Filter>MDL</Filter>
+    </ClInclude>
+    <ClInclude Include="C:\Users\scent\Documents\scent\program\gl-demo\thrid-party\assimp-3.3\code\MDLLoader.h">
+      <Filter>MDL</Filter>
+    </ClInclude>
+    <ClInclude Include="C:\Users\scent\Documents\scent\program\gl-demo\thrid-party\assimp-3.3\code\NFFLoader.h">
+      <Filter>NFF</Filter>
+    </ClInclude>
+    <ClInclude Include="C:\Users\scent\Documents\scent\program\gl-demo\thrid-party\assimp-3.3\code\NDOLoader.h">
+      <Filter>NDO</Filter>
+    </ClInclude>
+    <ClInclude Include="C:\Users\scent\Documents\scent\program\gl-demo\thrid-party\assimp-3.3\code\OFFLoader.h">
+      <Filter>OFF</Filter>
+    </ClInclude>
+    <ClInclude Include="C:\Users\scent\Documents\scent\program\gl-demo\thrid-party\assimp-3.3\code\ObjFileData.h">
+      <Filter>OBJ</Filter>
+    </ClInclude>
+    <ClInclude Include="C:\Users\scent\Documents\scent\program\gl-demo\thrid-party\assimp-3.3\code\ObjFileImporter.h">
+      <Filter>OBJ</Filter>
+    </ClInclude>
+    <ClInclude Include="C:\Users\scent\Documents\scent\program\gl-demo\thrid-party\assimp-3.3\code\ObjFileMtlImporter.h">
+      <Filter>OBJ</Filter>
+    </ClInclude>
+    <ClInclude Include="C:\Users\scent\Documents\scent\program\gl-demo\thrid-party\assimp-3.3\code\ObjFileParser.h">
+      <Filter>OBJ</Filter>
+    </ClInclude>
+    <ClInclude Include="C:\Users\scent\Documents\scent\program\gl-demo\thrid-party\assimp-3.3\code\ObjTools.h">
+      <Filter>OBJ</Filter>
+    </ClInclude>
+    <ClInclude Include="C:\Users\scent\Documents\scent\program\gl-demo\thrid-party\assimp-3.3\code\ObjExporter.h">
+      <Filter>OBJ</Filter>
+    </ClInclude>
+    <ClInclude Include="C:\Users\scent\Documents\scent\program\gl-demo\thrid-party\assimp-3.3\code\OgreImporter.h">
+      <Filter>OGRE</Filter>
+    </ClInclude>
+    <ClInclude Include="C:\Users\scent\Documents\scent\program\gl-demo\thrid-party\assimp-3.3\code\OgreStructs.h">
+      <Filter>OGRE</Filter>
+    </ClInclude>
+    <ClInclude Include="C:\Users\scent\Documents\scent\program\gl-demo\thrid-party\assimp-3.3\code\OgreParsingUtils.h">
+      <Filter>OGRE</Filter>
+    </ClInclude>
+    <ClInclude Include="C:\Users\scent\Documents\scent\program\gl-demo\thrid-party\assimp-3.3\code\OgreBinarySerializer.h">
+      <Filter>OGRE</Filter>
+    </ClInclude>
+    <ClInclude Include="C:\Users\scent\Documents\scent\program\gl-demo\thrid-party\assimp-3.3\code\OgreXmlSerializer.h">
+      <Filter>OGRE</Filter>
+    </ClInclude>
+    <ClInclude Include="C:\Users\scent\Documents\scent\program\gl-demo\thrid-party\assimp-3.3\code\OpenGEXExporter.h">
+      <Filter>OPENGEX</Filter>
+    </ClInclude>
+    <ClInclude Include="C:\Users\scent\Documents\scent\program\gl-demo\thrid-party\assimp-3.3\code\OpenGEXImporter.h">
+      <Filter>OPENGEX</Filter>
+    </ClInclude>
+    <ClInclude Include="C:\Users\scent\Documents\scent\program\gl-demo\thrid-party\assimp-3.3\code\OpenGEXStructs.h">
+      <Filter>OPENGEX</Filter>
+    </ClInclude>
+    <ClInclude Include="C:\Users\scent\Documents\scent\program\gl-demo\thrid-party\assimp-3.3\code\PlyLoader.h">
+      <Filter>PLY</Filter>
+    </ClInclude>
+    <ClInclude Include="C:\Users\scent\Documents\scent\program\gl-demo\thrid-party\assimp-3.3\code\PlyParser.h">
+      <Filter>PLY</Filter>
+    </ClInclude>
+    <ClInclude Include="C:\Users\scent\Documents\scent\program\gl-demo\thrid-party\assimp-3.3\code\PlyExporter.h">
+      <Filter>PLY</Filter>
+    </ClInclude>
+    <ClInclude Include="C:\Users\scent\Documents\scent\program\gl-demo\thrid-party\assimp-3.3\code\MS3DLoader.h">
+      <Filter>MS3D</Filter>
+    </ClInclude>
+    <ClInclude Include="C:\Users\scent\Documents\scent\program\gl-demo\thrid-party\assimp-3.3\code\COBLoader.h">
+      <Filter>COB</Filter>
+    </ClInclude>
+    <ClInclude Include="C:\Users\scent\Documents\scent\program\gl-demo\thrid-party\assimp-3.3\code\COBScene.h">
+      <Filter>COB</Filter>
+    </ClInclude>
+    <ClInclude Include="C:\Users\scent\Documents\scent\program\gl-demo\thrid-party\assimp-3.3\code\BlenderLoader.h">
+      <Filter>BLEND</Filter>
+    </ClInclude>
+    <ClInclude Include="C:\Users\scent\Documents\scent\program\gl-demo\thrid-party\assimp-3.3\code\BlenderDNA.h">
+      <Filter>BLEND</Filter>
+    </ClInclude>
+    <ClInclude Include="C:\Users\scent\Documents\scent\program\gl-demo\thrid-party\assimp-3.3\code\BlenderDNA.inl">
+      <Filter>BLEND</Filter>
+    </ClInclude>
+    <ClInclude Include="C:\Users\scent\Documents\scent\program\gl-demo\thrid-party\assimp-3.3\code\BlenderScene.h">
+      <Filter>BLEND</Filter>
+    </ClInclude>
+    <ClInclude Include="C:\Users\scent\Documents\scent\program\gl-demo\thrid-party\assimp-3.3\code\BlenderSceneGen.h">
+      <Filter>BLEND</Filter>
+    </ClInclude>
+    <ClInclude Include="C:\Users\scent\Documents\scent\program\gl-demo\thrid-party\assimp-3.3\code\BlenderIntermediate.h">
+      <Filter>BLEND</Filter>
+    </ClInclude>
+    <ClInclude Include="C:\Users\scent\Documents\scent\program\gl-demo\thrid-party\assimp-3.3\code\BlenderModifier.h">
+      <Filter>BLEND</Filter>
+    </ClInclude>
+    <ClInclude Include="C:\Users\scent\Documents\scent\program\gl-demo\thrid-party\assimp-3.3\code\BlenderBMesh.h">
+      <Filter>BLEND</Filter>
+    </ClInclude>
+    <ClInclude Include="C:\Users\scent\Documents\scent\program\gl-demo\thrid-party\assimp-3.3\code\BlenderTessellator.h">
+      <Filter>BLEND</Filter>
+    </ClInclude>
+    <ClInclude Include="C:\Users\scent\Documents\scent\program\gl-demo\thrid-party\assimp-3.3\code\IFCLoader.h">
+      <Filter>IFC</Filter>
+    </ClInclude>
+    <ClInclude Include="C:\Users\scent\Documents\scent\program\gl-demo\thrid-party\assimp-3.3\code\IFCReaderGen.h">
+      <Filter>IFC</Filter>
+    </ClInclude>
+    <ClInclude Include="C:\Users\scent\Documents\scent\program\gl-demo\thrid-party\assimp-3.3\code\IFCUtil.h">
+      <Filter>IFC</Filter>
+    </ClInclude>
+    <ClInclude Include="C:\Users\scent\Documents\scent\program\gl-demo\thrid-party\assimp-3.3\code\STEPFile.h">
+      <Filter>IFC</Filter>
+    </ClInclude>
+    <ClInclude Include="C:\Users\scent\Documents\scent\program\gl-demo\thrid-party\assimp-3.3\code\STEPFileReader.h">
+      <Filter>IFC</Filter>
+    </ClInclude>
+    <ClInclude Include="C:\Users\scent\Documents\scent\program\gl-demo\thrid-party\assimp-3.3\code\STEPFileEncoding.h">
+      <Filter>IFC</Filter>
+    </ClInclude>
+    <ClInclude Include="C:\Users\scent\Documents\scent\program\gl-demo\thrid-party\assimp-3.3\code\XGLLoader.h">
+      <Filter>XGL</Filter>
+    </ClInclude>
+    <ClInclude Include="C:\Users\scent\Documents\scent\program\gl-demo\thrid-party\assimp-3.3\code\FBXCompileConfig.h">
+      <Filter>FBX</Filter>
+    </ClInclude>
+    <ClInclude Include="C:\Users\scent\Documents\scent\program\gl-demo\thrid-party\assimp-3.3\code\FBXImporter.h">
+      <Filter>FBX</Filter>
+    </ClInclude>
+    <ClInclude Include="C:\Users\scent\Documents\scent\program\gl-demo\thrid-party\assimp-3.3\code\FBXParser.h">
+      <Filter>FBX</Filter>
+    </ClInclude>
+    <ClInclude Include="C:\Users\scent\Documents\scent\program\gl-demo\thrid-party\assimp-3.3\code\FBXTokenizer.h">
+      <Filter>FBX</Filter>
+    </ClInclude>
+    <ClInclude Include="C:\Users\scent\Documents\scent\program\gl-demo\thrid-party\assimp-3.3\code\FBXImportSettings.h">
+      <Filter>FBX</Filter>
+    </ClInclude>
+    <ClInclude Include="C:\Users\scent\Documents\scent\program\gl-demo\thrid-party\assimp-3.3\code\FBXConverter.h">
+      <Filter>FBX</Filter>
+    </ClInclude>
+    <ClInclude Include="C:\Users\scent\Documents\scent\program\gl-demo\thrid-party\assimp-3.3\code\FBXUtil.h">
+      <Filter>FBX</Filter>
+    </ClInclude>
+    <ClInclude Include="C:\Users\scent\Documents\scent\program\gl-demo\thrid-party\assimp-3.3\code\FBXDocument.h">
+      <Filter>FBX</Filter>
+    </ClInclude>
+    <ClInclude Include="C:\Users\scent\Documents\scent\program\gl-demo\thrid-party\assimp-3.3\code\FBXProperties.h">
+      <Filter>FBX</Filter>
+    </ClInclude>
+    <ClInclude Include="C:\Users\scent\Documents\scent\program\gl-demo\thrid-party\assimp-3.3\code\FBXMeshGeometry.h">
+      <Filter>FBX</Filter>
+    </ClInclude>
+    <ClInclude Include="C:\Users\scent\Documents\scent\program\gl-demo\thrid-party\assimp-3.3\code\Q3DLoader.h">
+      <Filter>Q3D</Filter>
+    </ClInclude>
+    <ClInclude Include="C:\Users\scent\Documents\scent\program\gl-demo\thrid-party\assimp-3.3\code\Q3BSPFileData.h">
+      <Filter>Q3BSP</Filter>
+    </ClInclude>
+    <ClInclude Include="C:\Users\scent\Documents\scent\program\gl-demo\thrid-party\assimp-3.3\code\Q3BSPFileParser.h">
+      <Filter>Q3BSP</Filter>
+    </ClInclude>
+    <ClInclude Include="C:\Users\scent\Documents\scent\program\gl-demo\thrid-party\assimp-3.3\code\Q3BSPFileImporter.h">
+      <Filter>Q3BSP</Filter>
+    </ClInclude>
+    <ClInclude Include="C:\Users\scent\Documents\scent\program\gl-demo\thrid-party\assimp-3.3\code\Q3BSPZipArchive.h">
+      <Filter>Q3BSP</Filter>
+    </ClInclude>
+    <ClInclude Include="C:\Users\scent\Documents\scent\program\gl-demo\thrid-party\assimp-3.3\code\RawLoader.h">
+      <Filter>RAW</Filter>
+    </ClInclude>
+    <ClInclude Include="C:\Users\scent\Documents\scent\program\gl-demo\thrid-party\assimp-3.3\code\SIBImporter.h">
+      <Filter>SIB</Filter>
+    </ClInclude>
+    <ClInclude Include="C:\Users\scent\Documents\scent\program\gl-demo\thrid-party\assimp-3.3\code\SMDLoader.h">
+      <Filter>SMD</Filter>
+    </ClInclude>
+    <ClInclude Include="C:\Users\scent\Documents\scent\program\gl-demo\thrid-party\assimp-3.3\code\STLLoader.h">
+      <Filter>STL</Filter>
+    </ClInclude>
+    <ClInclude Include="C:\Users\scent\Documents\scent\program\gl-demo\thrid-party\assimp-3.3\code\STLExporter.h">
+      <Filter>STL</Filter>
+    </ClInclude>
+    <ClInclude Include="C:\Users\scent\Documents\scent\program\gl-demo\thrid-party\assimp-3.3\code\TerragenLoader.h">
+      <Filter>TERRAGEN</Filter>
+    </ClInclude>
+    <ClInclude Include="C:\Users\scent\Documents\scent\program\gl-demo\thrid-party\assimp-3.3\code\UnrealLoader.h">
+      <Filter>3D</Filter>
+    </ClInclude>
+    <ClInclude Include="C:\Users\scent\Documents\scent\program\gl-demo\thrid-party\assimp-3.3\code\XFileHelper.h">
+      <Filter>X</Filter>
+    </ClInclude>
+    <ClInclude Include="C:\Users\scent\Documents\scent\program\gl-demo\thrid-party\assimp-3.3\code\XFileImporter.h">
+      <Filter>X</Filter>
+    </ClInclude>
+    <ClInclude Include="C:\Users\scent\Documents\scent\program\gl-demo\thrid-party\assimp-3.3\code\XFileParser.h">
+      <Filter>X</Filter>
+    </ClInclude>
+    <ClInclude Include="C:\Users\scent\Documents\scent\program\gl-demo\thrid-party\assimp-3.3\code\XFileExporter.h">
+      <Filter>X</Filter>
+    </ClInclude>
+    <ClInclude Include="C:\Users\scent\Documents\scent\program\gl-demo\thrid-party\assimp-3.3\code\glTFAsset.h">
+      <Filter>GLTF</Filter>
+    </ClInclude>
+    <ClInclude Include="C:\Users\scent\Documents\scent\program\gl-demo\thrid-party\assimp-3.3\code\glTFAsset.inl">
+      <Filter>GLTF</Filter>
+    </ClInclude>
+    <ClInclude Include="C:\Users\scent\Documents\scent\program\gl-demo\thrid-party\assimp-3.3\code\glTFAssetWriter.h">
+      <Filter>GLTF</Filter>
+    </ClInclude>
+    <ClInclude Include="C:\Users\scent\Documents\scent\program\gl-demo\thrid-party\assimp-3.3\code\glTFAssetWriter.inl">
+      <Filter>GLTF</Filter>
+    </ClInclude>
+    <ClInclude Include="C:\Users\scent\Documents\scent\program\gl-demo\thrid-party\assimp-3.3\code\glTFImporter.h">
+      <Filter>GLTF</Filter>
+    </ClInclude>
+    <ClInclude Include="C:\Users\scent\Documents\scent\program\gl-demo\thrid-party\assimp-3.3\code\glTFExporter.h">
+      <Filter>GLTF</Filter>
+    </ClInclude>
+    <ClInclude Include="C:\Users\scent\Documents\scent\program\gl-demo\thrid-party\assimp-3.3\code\D3MFImporter.h">
+      <Filter>3MF</Filter>
+    </ClInclude>
+    <ClInclude Include="C:\Users\scent\Documents\scent\program\gl-demo\thrid-party\assimp-3.3\code\D3MFOpcPackage.h">
+      <Filter>3MF</Filter>
+    </ClInclude>
+    <ClInclude Include="C:\Users\scent\Documents\scent\program\gl-demo\thrid-party\assimp-3.3\code\irrXMLWrapper.h">
+      <Filter>IrrXML</Filter>
+    </ClInclude>
+    <ClInclude Include="C:\Users\scent\Documents\scent\program\gl-demo\thrid-party\assimp-3.3\contrib\irrXML\CXMLReaderImpl.h">
+      <Filter>IrrXML</Filter>
+    </ClInclude>
+    <ClInclude Include="C:\Users\scent\Documents\scent\program\gl-demo\thrid-party\assimp-3.3\contrib\irrXML\heapsort.h">
+      <Filter>IrrXML</Filter>
+    </ClInclude>
+    <ClInclude Include="C:\Users\scent\Documents\scent\program\gl-demo\thrid-party\assimp-3.3\contrib\irrXML\irrArray.h">
+      <Filter>IrrXML</Filter>
+    </ClInclude>
+    <ClInclude Include="C:\Users\scent\Documents\scent\program\gl-demo\thrid-party\assimp-3.3\contrib\irrXML\irrString.h">
+      <Filter>IrrXML</Filter>
+    </ClInclude>
+    <ClInclude Include="C:\Users\scent\Documents\scent\program\gl-demo\thrid-party\assimp-3.3\contrib\irrXML\irrTypes.h">
+      <Filter>IrrXML</Filter>
+    </ClInclude>
+    <ClInclude Include="C:\Users\scent\Documents\scent\program\gl-demo\thrid-party\assimp-3.3\contrib\irrXML\irrXML.h">
+      <Filter>IrrXML</Filter>
+    </ClInclude>
+    <ClInclude Include="C:\Users\scent\Documents\scent\program\gl-demo\thrid-party\assimp-3.3\contrib\ConvertUTF\ConvertUTF.h">
+      <Filter>ConvertUTF</Filter>
+    </ClInclude>
+    <ClInclude Include="C:\Users\scent\Documents\scent\program\gl-demo\thrid-party\assimp-3.3\contrib\unzip\crypt.h">
+      <Filter>unzip</Filter>
+    </ClInclude>
+    <ClInclude Include="C:\Users\scent\Documents\scent\program\gl-demo\thrid-party\assimp-3.3\contrib\unzip\ioapi.h">
+      <Filter>unzip</Filter>
+    </ClInclude>
+    <ClInclude Include="C:\Users\scent\Documents\scent\program\gl-demo\thrid-party\assimp-3.3\contrib\unzip\unzip.h">
+      <Filter>unzip</Filter>
+    </ClInclude>
+    <ClInclude Include="C:\Users\scent\Documents\scent\program\gl-demo\thrid-party\assimp-3.3\contrib\poly2tri\poly2tri\common\shapes.h">
+      <Filter>Poly2Tri</Filter>
+    </ClInclude>
+    <ClInclude Include="C:\Users\scent\Documents\scent\program\gl-demo\thrid-party\assimp-3.3\contrib\poly2tri\poly2tri\common\utils.h">
+      <Filter>Poly2Tri</Filter>
+    </ClInclude>
+    <ClInclude Include="C:\Users\scent\Documents\scent\program\gl-demo\thrid-party\assimp-3.3\contrib\poly2tri\poly2tri\sweep\advancing_front.h">
+      <Filter>Poly2Tri</Filter>
+    </ClInclude>
+    <ClInclude Include="C:\Users\scent\Documents\scent\program\gl-demo\thrid-party\assimp-3.3\contrib\poly2tri\poly2tri\sweep\cdt.h">
+      <Filter>Poly2Tri</Filter>
+    </ClInclude>
+    <ClInclude Include="C:\Users\scent\Documents\scent\program\gl-demo\thrid-party\assimp-3.3\contrib\poly2tri\poly2tri\sweep\sweep.h">
+      <Filter>Poly2Tri</Filter>
+    </ClInclude>
+    <ClInclude Include="C:\Users\scent\Documents\scent\program\gl-demo\thrid-party\assimp-3.3\contrib\poly2tri\poly2tri\sweep\sweep_context.h">
+      <Filter>Poly2Tri</Filter>
+    </ClInclude>
+    <ClInclude Include="C:\Users\scent\Documents\scent\program\gl-demo\thrid-party\assimp-3.3\contrib\clipper\clipper.hpp">
+      <Filter>Clipper</Filter>
+    </ClInclude>
+    <ClInclude Include="C:\Users\scent\Documents\scent\program\gl-demo\thrid-party\assimp-3.3\contrib\openddlparser\include\openddlparser\OpenDDLParser.h">
+      <Filter>openddl_parser</Filter>
+    </ClInclude>
+    <ClInclude Include="C:\Users\scent\Documents\scent\program\gl-demo\thrid-party\assimp-3.3\contrib\openddlparser\include\openddlparser\OpenDDLParserUtils.h">
+      <Filter>openddl_parser</Filter>
+    </ClInclude>
+    <ClInclude Include="C:\Users\scent\Documents\scent\program\gl-demo\thrid-party\assimp-3.3\contrib\openddlparser\include\openddlparser\OpenDDLCommon.h">
+      <Filter>openddl_parser</Filter>
+    </ClInclude>
+    <ClInclude Include="C:\Users\scent\Documents\scent\program\gl-demo\thrid-party\assimp-3.3\contrib\openddlparser\include\openddlparser\OpenDDLExport.h">
+      <Filter>openddl_parser</Filter>
+    </ClInclude>
+    <ClInclude Include="C:\Users\scent\Documents\scent\program\gl-demo\thrid-party\assimp-3.3\contrib\openddlparser\include\openddlparser\DDLNode.h">
+      <Filter>openddl_parser</Filter>
+    </ClInclude>
+    <ClInclude Include="C:\Users\scent\Documents\scent\program\gl-demo\thrid-party\assimp-3.3\contrib\openddlparser\include\openddlparser\Value.h">
+      <Filter>openddl_parser</Filter>
+    </ClInclude>
+    <ClInclude Include="C:\Users\scent\Documents\scent\program\gl-demo\thrid-party\assimp-3.3\include\assimp\anim.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="C:\Users\scent\Documents\scent\program\gl-demo\thrid-party\assimp-3.3\include\assimp\ai_assert.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="C:\Users\scent\Documents\scent\program\gl-demo\thrid-party\assimp-3.3\include\assimp\camera.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="C:\Users\scent\Documents\scent\program\gl-demo\thrid-party\assimp-3.3\include\assimp\color4.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="C:\Users\scent\Documents\scent\program\gl-demo\thrid-party\assimp-3.3\include\assimp\color4.inl">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="C:\Users\scent\Documents\scent\program\gl-demo\thrid-party\assimp-3.3\include\assimp\config.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="C:\Users\scent\Documents\scent\program\gl-demo\thrid-party\assimp-3.3\include\assimp\defs.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="C:\Users\scent\Documents\scent\program\gl-demo\thrid-party\assimp-3.3\include\assimp\cfileio.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="C:\Users\scent\Documents\scent\program\gl-demo\thrid-party\assimp-3.3\include\assimp\light.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="C:\Users\scent\Documents\scent\program\gl-demo\thrid-party\assimp-3.3\include\assimp\material.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="C:\Users\scent\Documents\scent\program\gl-demo\thrid-party\assimp-3.3\include\assimp\material.inl">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="C:\Users\scent\Documents\scent\program\gl-demo\thrid-party\assimp-3.3\include\assimp\matrix3x3.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="C:\Users\scent\Documents\scent\program\gl-demo\thrid-party\assimp-3.3\include\assimp\matrix3x3.inl">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="C:\Users\scent\Documents\scent\program\gl-demo\thrid-party\assimp-3.3\include\assimp\matrix4x4.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="C:\Users\scent\Documents\scent\program\gl-demo\thrid-party\assimp-3.3\include\assimp\matrix4x4.inl">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="C:\Users\scent\Documents\scent\program\gl-demo\thrid-party\assimp-3.3\include\assimp\mesh.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="C:\Users\scent\Documents\scent\program\gl-demo\thrid-party\assimp-3.3\include\assimp\postprocess.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="C:\Users\scent\Documents\scent\program\gl-demo\thrid-party\assimp-3.3\include\assimp\quaternion.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="C:\Users\scent\Documents\scent\program\gl-demo\thrid-party\assimp-3.3\include\assimp\quaternion.inl">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="C:\Users\scent\Documents\scent\program\gl-demo\thrid-party\assimp-3.3\include\assimp\scene.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="C:\Users\scent\Documents\scent\program\gl-demo\thrid-party\assimp-3.3\include\assimp\metadata.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="C:\Users\scent\Documents\scent\program\gl-demo\thrid-party\assimp-3.3\include\assimp\texture.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="C:\Users\scent\Documents\scent\program\gl-demo\thrid-party\assimp-3.3\include\assimp\types.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="C:\Users\scent\Documents\scent\program\gl-demo\thrid-party\assimp-3.3\include\assimp\vector2.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="C:\Users\scent\Documents\scent\program\gl-demo\thrid-party\assimp-3.3\include\assimp\vector2.inl">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="C:\Users\scent\Documents\scent\program\gl-demo\thrid-party\assimp-3.3\include\assimp\vector3.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="C:\Users\scent\Documents\scent\program\gl-demo\thrid-party\assimp-3.3\include\assimp\vector3.inl">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="C:\Users\scent\Documents\scent\program\gl-demo\thrid-party\assimp-3.3\include\assimp\version.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="C:\Users\scent\Documents\scent\program\gl-demo\thrid-party\assimp-3.3\include\assimp\cimport.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="C:\Users\scent\Documents\scent\program\gl-demo\thrid-party\assimp-3.3\include\assimp\importerdesc.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="C:\Users\scent\Documents\scent\program\gl-demo\thrid-party\assimp-3.3\include\assimp\Importer.hpp">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="C:\Users\scent\Documents\scent\program\gl-demo\thrid-party\assimp-3.3\include\assimp\ProgressHandler.hpp">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="C:\Users\scent\Documents\scent\program\gl-demo\thrid-party\assimp-3.3\include\assimp\IOStream.hpp">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="C:\Users\scent\Documents\scent\program\gl-demo\thrid-party\assimp-3.3\include\assimp\IOSystem.hpp">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="C:\Users\scent\Documents\scent\program\gl-demo\thrid-party\assimp-3.3\include\assimp\cexport.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="C:\Users\scent\Documents\scent\program\gl-demo\thrid-party\assimp-3.3\include\assimp\Exporter.hpp">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="C:\Users\scent\Documents\scent\program\gl-demo\thrid-party\assimp-3.3\include\assimp\Compiler\pushpack1.h">
+      <Filter>Compiler</Filter>
+    </ClInclude>
+    <ClInclude Include="C:\Users\scent\Documents\scent\program\gl-demo\thrid-party\assimp-3.3\include\assimp\Compiler\poppack1.h">
+      <Filter>Compiler</Filter>
+    </ClInclude>
+    <ClInclude Include="C:\Users\scent\Documents\scent\program\gl-demo\thrid-party\assimp-3.3\include\assimp\Compiler\pstdint.h">
+      <Filter>Compiler</Filter>
+    </ClInclude>
+  </ItemGroup>
+  <ItemGroup>
+    <CustomBuild Include="C:\Users\scent\Documents\scent\program\gl-demo\thrid-party\assimp-3.3\code\CMakeLists.txt" />
+  </ItemGroup>
+  <ItemGroup>
+    <Filter Include="3D">
+      <UniqueIdentifier>{3110A32E-8421-3B69-B308-D2FD57FB9E20}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="3DS">
+      <UniqueIdentifier>{55171885-233E-37F7-9C3A-A9058D80AD7B}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="3MF">
+      <UniqueIdentifier>{C5D9C17B-A5F5-38B9-83FC-DE125962DE33}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="AC">
+      <UniqueIdentifier>{A7BD007A-D3ED-3505-877B-BD98BFEC4022}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="ASE">
+      <UniqueIdentifier>{3AC21598-98C9-3771-8815-2A728968C608}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="ASSBIN">
+      <UniqueIdentifier>{4AE9C0BC-DD0D-3B97-9F62-34C695BAFE84}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="ASSXML">
+      <UniqueIdentifier>{E55693CA-D0B4-3676-B287-6E055B0F1D90}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="B3D">
+      <UniqueIdentifier>{47FF90DA-6DF4-3D8B-80F8-AFB52645AB96}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="BLEND">
+      <UniqueIdentifier>{9D6ACAE4-4EC8-335D-B9F5-400B782AB588}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="BVH">
+      <UniqueIdentifier>{65D190B4-15F8-388F-9EEC-A807B533783F}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="COB">
+      <UniqueIdentifier>{FC76F942-DBD2-3828-A921-327099B03E0C}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="COLLADA">
+      <UniqueIdentifier>{2DB04116-BB7A-335E-A4C0-A2A50C7154D3}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="CSM">
+      <UniqueIdentifier>{BCE5A535-EAC5-3816-A784-EEFB9F8EEBE1}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="Clipper">
+      <UniqueIdentifier>{828E9895-F957-306D-BAF6-F2E79C0D35CA}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="Common">
+      <UniqueIdentifier>{9C072BAB-4157-372C-9076-6D4CBB04EB98}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="Compiler">
+      <UniqueIdentifier>{B0063C9A-EB0A-3B84-9631-A6241929E46C}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="ConvertUTF">
+      <UniqueIdentifier>{3A9E2700-E6D9-358C-BE7A-81FED187D0E2}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="DXF">
+      <UniqueIdentifier>{47D51A35-F4A9-33DF-9F3A-7DB8533D07B5}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="Exporter">
+      <UniqueIdentifier>{8FF0FC74-6C90-3EDA-A7DE-0D057CCCAA12}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="FBX">
+      <UniqueIdentifier>{BF664FD3-652A-3851-A59A-5765A8E08B23}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="GLTF">
+      <UniqueIdentifier>{EC6E9F71-72D4-39F2-80CB-4C38AE0E576B}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="HMP">
+      <UniqueIdentifier>{BDDF2FD8-E1A5-35B2-9A1D-63B543613226}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="Header Files">
+      <UniqueIdentifier>{45E2A43C-F34C-35AA-B5DF-2842CE02096D}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="IFC">
+      <UniqueIdentifier>{82A4D93F-B71A-3524-AD57-CD993D2740BC}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="IRR">
+      <UniqueIdentifier>{444C0C5F-6EB9-3E7B-A542-1CF5BEE9A807}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="IRRMESH">
+      <UniqueIdentifier>{71C93BDC-1CDB-3077-B7B4-07B27537DE82}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="IrrXML">
+      <UniqueIdentifier>{6856216B-6467-38DA-808A-31AE021420A9}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="LWO">
+      <UniqueIdentifier>{BFC8699D-8ACD-3F26-A7ED-A1B1C153A582}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="LWS">
+      <UniqueIdentifier>{64CBB1B2-9692-3968-AC14-C18E894163B4}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="Logging">
+      <UniqueIdentifier>{7956AFF0-B000-3D78-BE8F-486C4719CBF6}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="MD2">
+      <UniqueIdentifier>{E95FD2B3-E4C6-3B2E-8349-711AFC9AC29B}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="MD3">
+      <UniqueIdentifier>{042F1E32-B0E6-31E1-9B10-D53A51B52D24}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="MD5">
+      <UniqueIdentifier>{E46209DA-E74E-3B8A-9D8A-323192561E2C}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="MDC">
+      <UniqueIdentifier>{E59A4F2B-0CF8-36E2-BBBC-061DFF48BAB3}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="MDL">
+      <UniqueIdentifier>{C7861FE8-016F-3AB6-B71A-2DA574F8AA9E}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="MS3D">
+      <UniqueIdentifier>{479349D2-BD42-37BE-BA45-0A3E11D39EDC}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="MaterialSystem">
+      <UniqueIdentifier>{2FB977A2-24D2-3A67-A715-33F94F2A8680}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="NDO">
+      <UniqueIdentifier>{26502DC1-F927-318F-8EE2-3AA702C38664}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="NFF">
+      <UniqueIdentifier>{7E39F830-8601-34FD-B81A-A5219710CA83}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="OBJ">
+      <UniqueIdentifier>{C7865D26-7F8B-3552-849C-93BEC7C8B909}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="OFF">
+      <UniqueIdentifier>{76ACD35F-C744-3F19-ABC5-0D0596F6EFBB}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="OGRE">
+      <UniqueIdentifier>{C1F71310-982A-30D9-946B-FC9142EA7C6E}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="OPENGEX">
+      <UniqueIdentifier>{7980AAB8-135D-3BD8-B8A5-8A1EA5611161}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="PLY">
+      <UniqueIdentifier>{487D6B34-C3C3-38FE-A7C8-418C454CD7E4}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="Poly2Tri">
+      <UniqueIdentifier>{3D4F4342-E2CE-33DF-9855-122E5789E13B}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="PostProcessing">
+      <UniqueIdentifier>{D030B7D8-C910-3471-9366-CE4997D45CC4}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="Q3BSP">
+      <UniqueIdentifier>{E9737370-201F-3336-8E6C-E67B926C176F}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="Q3D">
+      <UniqueIdentifier>{A865CC03-F8FE-3131-9288-2A7A3D9B00B8}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="RAW">
+      <UniqueIdentifier>{34E9AC5B-A53A-3075-93FB-9016A07413A8}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="SIB">
+      <UniqueIdentifier>{72A64401-727E-37AF-9822-E54BFD1D86BF}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="SMD">
+      <UniqueIdentifier>{C7EF7957-5C8F-3F02-9C30-C43CB508B5AC}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="STL">
+      <UniqueIdentifier>{1B2B0E17-226F-3A9B-9B5E-DFD0083EAD68}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="Source Files">
+      <UniqueIdentifier>{6B7E51BB-AB60-3D02-8E08-99DBAAE2753C}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="Step">
+      <UniqueIdentifier>{05658D3B-8786-379C-B825-3C67702649D1}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="TERRAGEN">
+      <UniqueIdentifier>{DA10FACF-4454-3913-AE52-329BE8099589}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="X">
+      <UniqueIdentifier>{6B508DF5-4E60-3A25-AFE4-A0B91C8CDE5C}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="XGL">
+      <UniqueIdentifier>{B2BB0B3B-080A-3921-A7E7-A62730ADC5C0}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="openddl_parser">
+      <UniqueIdentifier>{C0A89C95-8CFB-382C-9C20-36F59740A142}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="unzip">
+      <UniqueIdentifier>{38F490AB-0912-38DB-8552-20F60275FC2D}</UniqueIdentifier>
+    </Filter>
+  </ItemGroup>
+</Project>

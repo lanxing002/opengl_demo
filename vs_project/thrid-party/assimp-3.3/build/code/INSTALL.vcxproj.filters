@@ -1,0 +1,13 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="16.0" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <ItemGroup>
+    <CustomBuild Include="C:\Users\scent\Documents\scent\program\gl-demo\thrid-party\assimp-3.3\build\CMakeFiles\7a309266a7557a1546875b1a3843a5d9\INSTALL_force.rule">
+      <Filter>CMake Rules</Filter>
+    </CustomBuild>
+  </ItemGroup>
+  <ItemGroup>
+    <Filter Include="CMake Rules">
+      <UniqueIdentifier>{256983AC-837C-34D7-A4A2-7AAD33063477}</UniqueIdentifier>
+    </Filter>
+  </ItemGroup>
+</Project>
