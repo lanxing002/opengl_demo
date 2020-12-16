@@ -72,8 +72,8 @@
   <PropertyGroup Label="UserMacros" />
   <PropertyGroup Condition="'$(Configuration)|$(Platform)'=='Debug|Win32'">
     <LinkIncremental>true</LinkIncremental>
-    <IncludePath>C:\Users\scent\Documents\scent\program\gl-demo\thrid-party\glfw\include;C:\Users\scent\Documents\scent\program\gl-demo\thrid-party\glad\include;C:\Users\scent\Documents\scent\program\gl-demo\thrid-party\glm-0.9.9.8;C:\Users\scent\Documents\scent\program\gl-demo\thrid-party\assimp-3.3\include;$(IncludePath)</IncludePath>
-    <LibraryPath>C:\Users\scent\Documents\scent\program\gl-demo\thrid-party\glfw\lib-vc2019;C:\Users\scent\Documents\scent\program\gl-demo\thrid-party\assimp-3.3\build\code\Debug;$(LibraryPath)</LibraryPath>
+    <IncludePath>$(SolutionDir)\thrid-party\glfw\include;$(SolutionDir)\thrid-party\glad\include;$(SolutionDir)\thrid-party\glm-0.9.9.8;$(SolutionDir)\thrid-party\assimp-3.3\include;$(IncludePath)</IncludePath>
+    <LibraryPath>$(SolutionDir)\thrid-party\glfw\lib-vc2019;$(SolutionDir)\thrid-party\assimp-3.3\build\code\Debug;$(LibraryPath)</LibraryPath>
   </PropertyGroup>
   <PropertyGroup Condition="'$(Configuration)|$(Platform)'=='Release|Win32'">
     <LinkIncremental>false</LinkIncremental>
@@ -92,7 +92,7 @@
       <SDLCheck>true</SDLCheck>
       <ConformanceMode>true</ConformanceMode>
       <PreprocessorDefinitions>M_Debug;STB_IMAGE_WRITE_IMPLEMENTATION;%(PreprocessorDefinitions)</PreprocessorDefinitions>
-      <AdditionalIncludeDirectories>C:\Users\scent\Documents\scent\program\gl-demo\thrid-party\imgui-master;C:\Users\scent\Documents\scent\program\gl-demo\thrid-party\imgui-master\backends;%(AdditionalIncludeDirectories)</AdditionalIncludeDirectories>
+      <AdditionalIncludeDirectories>$(SolutionDir)\thrid-party\imgui-master;$(SolutionDir)\thrid-party\imgui-master\backends;%(AdditionalIncludeDirectories)</AdditionalIncludeDirectories>
     </ClCompile>
     <Link>
       <SubSystem>Console</SubSystem>
